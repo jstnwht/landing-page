@@ -1,0 +1,92 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.top-section {
+    background-color: #1f2937;
+}
+
+.header-logo p {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.header-links a {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.middle-section {
+    background-color: #f9faf8;
+}
+
+.information-header-text {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    padding: 25px;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+}
+
+.quote p {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-by {
+    font-weight: bold;
+}
+
+.call-to-action {
+    background-color: white;
+}
+
+.call-to-action-box {
+    background-color: #3882f6;
+    border-radius: 20px;
+}
+
+.call-to-action-header {
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.call-to-action-text {
+    color: #f9faf8;
+}
+
+.call-to-action-button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 5px;
+    border: 3px solid #f9faf8;
+    border-radius: 5px;
+
+}
+
+.footer {
+    background-color: #1f2937;
+
+    .copyright {
+        color: #f9faf8;
+    }
+}
